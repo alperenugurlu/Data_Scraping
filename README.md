@@ -9,9 +9,15 @@ How To ?
 #Click the right mouse button on the interface of the website to examine or check the item,
 #find the titles related to the section you want to engrave ('div' - 'class') and write to this section. the example is as follows.
 
-#example --> soup.find('details',{'class': 'xss-cheat-sheet-container-eventhandlers'})    
+#example --> soup.find('details',{'class': 'xss-cheat-sheet-container-eventhandlers'})  
+
+How To Run
+
+linux/ubuntu -->>  python3 data_scraping.py
+windows -->> python data_scraping.py
 
 
 #Libraries Required for the Program to Run:
 # import request 
 # from bs4 import beautifulsoup 
+
