@@ -21,3 +21,5 @@ windows -->> python data_scraping.py
 # import request 
 # from bs4 import beautifulsoup 
 
+# writer: Alperen T. Ugurlu
+# contact: https://www.linkedin.com/in/alperen-u-7b57b7178/
